@@ -1,0 +1,22 @@
+{
+  "name": "cse341project1",
+  "version": "1.0.0",
+  "description": "CSE341 Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kccendana/cse341project1.git"
+  },
+  "author": "Katherine Cendana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kccendana/cse341project1/issues"
+  },
+  "homepage": "https://github.com/Kccendana/cse341project1#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
