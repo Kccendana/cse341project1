@@ -1,7 +1,8 @@
 
         {
-            "fname": "Julie",
-             "lname": "Gray",
-            "address": "20-9 Higashimarunouchi, Tsu",
-            "phone_number": "070 4097 0367"
+            "firstName": "Julie",
+            "lastName": "Gray",
+            "email": "julie_gray@mail.com",
+            "favoriteColor": "green",
+            "birthday": "1920-09-05"
         }
