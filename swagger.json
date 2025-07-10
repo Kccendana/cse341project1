@@ -5,12 +5,9 @@
     "description": "Users Api",
     "version": "1.0.0"
   },
-  "host": "https://cse341project1-vmua.onrender.com",
+  "host": "cse341project1-vmua.onrender.com",
   "basePath": "/",
-  "schemes": [
-    "http",
-    "https"
-  ],
+  "schemes": ["https"],
   "paths": {
     "/": {
       "get": {
